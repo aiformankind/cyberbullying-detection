@@ -18,6 +18,9 @@ system.
 2. [A Large-Scale English Multi-Label Twitter Dataset for Online Abuse
 Detection](https://aclanthology.org/2021.woah-1.16.pdf)
 3. [Wikipedia Detox (used by the Mendeley Data)](https://github.com/ewulczyn/wiki-detox)
-
+4. [Unsupervised Cyberbullying Detection
+via Time-Informed Gaussian Mixture Model](https://avalanchesiqi.github.io/files/cikm2020cyberbullying.pdf)
+5. [Towards Understanding and Detecting Cyberbullying
+in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-4_24260_paper.pdf)
 
 
