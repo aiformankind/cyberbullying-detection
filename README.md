@@ -24,6 +24,7 @@ via Time-Informed Gaussian Mixture Model](https://avalanchesiqi.github.io/files/
 5. [Towards Understanding and Detecting Cyberbullying
 in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-4_24260_paper.pdf)
 6. [Detection of Cyberbullying Incidents on the Instagram Social Network](https://arxiv.org/pdf/1503.03909.pdf)
+7. [XBully: Cyberbullying Detection within a Multi-Modal Context](https://dl.acm.org/doi/pdf/10.1145/3289600.3291037)
 
 ### Competitions/Challenges
 1. [Hateful Memes Challenge by Facebook AI](https://hatefulmemeschallenge.com/)
