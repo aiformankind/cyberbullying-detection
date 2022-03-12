@@ -13,6 +13,7 @@ system.
 6. [Cyber Bullying Types Datasets | IEEE DataPort](https://ieee-dataport.org/documents/cyber-bullying-types-datasets)
 7. [Mendeley Data - Cyberbullying Datasets - sourced from Kaggle, Twitter, Wikipedia Talk pages and YouTube](https://data.mendeley.com/datasets/jf4pzyvnpj/1)
 
+
 ### Resources
 1. [Training BERT for Cyberbullying Detection - HF Trainer Baseline](https://skok.ai/2020/10/27/Training-BERT-for-Cyberbullying-Detection-Part-1.html)
 2. [A Large-Scale English Multi-Label Twitter Dataset for Online Abuse
@@ -22,5 +23,9 @@ Detection](https://aclanthology.org/2021.woah-1.16.pdf)
 via Time-Informed Gaussian Mixture Model](https://avalanchesiqi.github.io/files/cikm2020cyberbullying.pdf)
 5. [Towards Understanding and Detecting Cyberbullying
 in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_7C-4_24260_paper.pdf)
+6. [Detection of Cyberbullying Incidents on the Instagram Social Network](https://arxiv.org/pdf/1503.03909.pdf)
+
+### Competitions/Challenges
+1. [Hateful Memes Challenge by Facebook AI](https://hatefulmemeschallenge.com/)
 
 
