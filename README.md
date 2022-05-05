@@ -26,6 +26,9 @@ in Real-world Images](https://www.ndss-symposium.org/wp-content/uploads/ndss2021
 6. [Detection of Cyberbullying Incidents on the Instagram Social Network](https://arxiv.org/pdf/1503.03909.pdf)
 7. [XBully: Cyberbullying Detection within a Multi-Modal Context](https://dl.acm.org/doi/pdf/10.1145/3289600.3291037)
 
+### Tech Talks
+1. [Advancing Cyberbullying Detection with Psychological Insights and Complex Media Data](https://youtu.be/bNX5ipv3kuw) by [Lu Cheng](https://www.linkedin.com/in/lu-cheng-046984100/)
+
 ### Competitions/Challenges
 1. [Hateful Memes Challenge by Facebook AI](https://hatefulmemeschallenge.com/)
 
